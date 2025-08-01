@@ -1,0 +1,9 @@
+OpenWeather Map has weather info. 
+with The Cat API I can have random cat images
+with NewsAPI I can get headlines and news
+with Spotify API I can get music info but I don't think that I will use it
+with Giphy API I can search for GIFs. 
+
+I will go with OpenWeatherMap.
+
+Documentation Link: https://openweathermap.org/appid
