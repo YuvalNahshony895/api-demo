@@ -27,6 +27,9 @@ async function getAPI() {
             <h2>${name}, ${state}, ${country}</h2>
             <p><b>Weather: </b>${weatherData.weather[0].description}</p>
             <p><b>Temperature:</b> ${weatherData.main.temp} °C</p>
+            <p><b>Wind Speed: </b>${weatherData.wind.speed} m/s</p>
+            <p><b>Humidity: </b>${weatherData.main.humidity} %</p>
+
             
         `;
         //insert the HTML string into the div with ID weatherDiv
